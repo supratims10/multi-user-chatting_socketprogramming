@@ -2,7 +2,7 @@
 ## Multiple user chat application using Socket Programming and Threads
 
 Project by: Supratim Sarkar 
-Roll No: 20CS01073 
+
 Org.: IIT Bhubaneswar
 
 The project has these facilities:
